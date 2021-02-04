@@ -1,4 +1,4 @@
 # bash_scripts
 bash command line scripts
 
-usefull everday uility scripts
+usefull everday utility scripts
